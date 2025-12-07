@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Faydana Marka Paneli",
+    "name": "Faydama",
     "slug": "faydana-dashboard",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -14,7 +14,8 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.faydana.dashboard"
+      "bundleIdentifier": "com.faydana.dashboard",
+      "displayName": "Faydama"
     },
     "android": {
       "adaptiveIcon": {

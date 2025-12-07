@@ -32,7 +32,8 @@ const campaignCategories = [
   'Mobilya',
   'Market',
   'Çizim',
-  'Boyama'
+  'Boyama',
+  'Petrol Ofisi'
 ];
 
 const eventCategories = [

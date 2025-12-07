@@ -75,6 +75,7 @@ export default function BannersScreen({ currentUser }) {
     brandInfo: {
       name: '',
       type: 'restaurant',
+
       description: ''
     },
     menu: {
